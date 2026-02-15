@@ -32,7 +32,19 @@ I have organized my work into two primary **Integrated Solutions** and one suppo
 
 ---
 
+## 🚀 Zero-Touch Deployment Guide
+
+This portfolio is designed to be deployed as a cohesive ecosystem. To get started:
+
+1.  **Foundational IaC**: Start with **[azure-lamp-hosting](https://github.com/chinmaymjog/azure-lamp-hosting)**. Run `ssh-keygen -t rsa -f webadmin_rsa` in `terraform/`, then `terraform apply`.
+2.  **VM Control Plane**: Terraform generates `hosts` and `database_vars.yml`. Copy these (and your private key) to the **[jenkins-ansible/ansible](https://github.com/chinmaymjog/jenkins-ansible)** directory and run `docker compose up -d`.
+3.  **Cloud-Native Scale**: Deploy the **[aks-tf](https://github.com/chinmaymjog/aks-tf)** landing zone. It generates a `.wp-env` file.
+4.  **App Deployment**: Copy the `.wp-env` to the **[wp-boilerplate](https://github.com/chinmaymjog/wp-boilerplate)** directory and run the `deploy` scripts to launch your K8s-based WordPress ecosystem.
+
+---
+
 ### 🧰 Technical Toolbelt
+...
 - **Cloud & OS:** ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=Microsoft-Azure) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=Amazon-Web-Services) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=Google-Cloud-Platform) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu) ![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)
 - **IaC & Automation:** ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible)
 - **Containerization:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
