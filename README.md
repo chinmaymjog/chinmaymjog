@@ -22,22 +22,20 @@ Summary Points:
 
 - **Cloud & OS:** ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=Microsoft-Azure) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=Amazon-Web-Services) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=Google-Cloud-Platform) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu) ![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)
 - **Infrastructure as Code:** ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible)
+  - **[terraform-azure-aks](https://github.com/chinmaymjog/aks-tf)**: A complete, production-ready AKS environment following enterprise landing zone best practices.
 - **Containerization & Orchestration:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+  - **[wordpress-boilerplate](https://github.com/chinmaymjog/wp-boilerplate)**: Standardization for deploying high-traffic CMS sites on Kubernetes.
+  - **[wp-base](https://github.com/chinmaymjog/wp-base)**: Hardened, production-ready base images.
 - **CI/CD:** ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292E?logo=GitHub)
 - **Monitoring & Observability:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F46800?logo=elasticsearch)
 -
 
-<!-- ---
+---
 
 ### 📂 Projects Worth Checking Out
 
 These are a few of the projects I've built to demonstrate key DevOps principles and solve common infrastructure challenges. Click on any of the links below to view the full repository and a detailed README.
 
-| Project                  | Description                                             | Tech Stack                   |
-| ------------------------ | ------------------------------------------------------- | ---------------------------- |
-| `cis-ubuntu24-hardening` | Script for CIS benchmark compliance on Ubuntu 24.04     | Bash, Auditd                 |
-| `aks-haproxy-ingress`    | HAProxy Ingress Controller with ELK logging on AKS      | AKS, Helm, HAProxy, Logstash |
-| `azure-vm-bootstrap`     | Automated provisioning and hardening of Azure Linux VMs | Terraform, Ansible           |
 | `devops-lab-on-mac`      | A personal DevOps lab environment on macOS              | Vagrant, Docker, Kubernetes  |
 
 --- -->
