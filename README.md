@@ -1,7 +1,8 @@
 # Hi, I'm Chinmay Jog! 👋
+
 ## 🚀 DevOps & Cloud Infrastructure Engineer
 
-I am a seasoned IT professional with over 20 years of experience, specializing in bridging legacy infrastructure and modern Cloud-Native ecosystems. I build scalable, secure, and automated platforms on Azure.
+I am a **seasoned IT professional with over 20 years of experience**, specializing in bridging legacy infrastructure and modern Cloud-Native ecosystems. Throughout my career, I've worn many hats—Support Engineer, Systems Administrator, Technical Consultant, DevOps Engineer, Cloud Architect, and Technical Manager.
 
 ---
 
@@ -15,11 +16,11 @@ I have organized my work into a modular architecture. Each repository represents
 
 #### 2. The Control Plane (Self-Service Automation)
 > **Expertise**: Jenkins, Ansible, Docker, Security
-- **[jenkins-ansible](https://github.com/chinmaymjog/jenkins-ansible)**: A self-service portal for infrastructure management. Built with context-aware Jenkins jobs and Ansible playbooks.
+- **[jenkins-ansible](https://github.com/chinmaymjog/jenkins-ansible)**: A self-service portal for infrastructure management. Built with context-aware Jenkins jobs and Ansible playbooks for server hardening and site lifecycle management.
 
 #### 3. Automation Toolkit (The "DevOps Glue")
 > **Expertise**: Shell Scripting, CI/CD, Azure CLI
-- **[devops-toolkit](https://github.com/chinmaymjog/cicd-toolkit)**: A collection of reusable CI/CD templates and scripts for database management, file synchronization, and security hurdles.
+- **[devops-toolkit](https://github.com/chinmaymjog/cicd-toolkit)**: A collection of reusable CI/CD templates and scripts for database management, file synchronization, and security.
 
 #### 4. Application Ecosystem
 > **Expertise**: WordPress, Kubernetes, Stateless Architecture
@@ -30,7 +31,7 @@ I have organized my work into a modular architecture. Each repository represents
 ---
 
 ### 📊 Comprehensive Platforms
-If you want to see how these all fit together into a single solution, check out:
+Check out how these all fit together into a single solution:
 - **[Enterprise Shared Hosting Platform](https://github.com/chinmaymjog/azure-lamp-hosting)**: The primary showcase for legacy-to-cloud transition.
 - **[AzRBAC-Insight](https://github.com/chinmaymjog/AzRBAC-Insight)**: An automated Azure Governance and RBAC auditing tool.
 - **[cis-ubuntu24-hardening](https://github.com/chinmaymjog/cis-ubuntu24-hardening)**: Security compliance automation for modern OS standards.
@@ -50,3 +51,5 @@ If you want to see how these all fit together into a single solution, check out:
 - **Medium**: [Read my technical deep-dives](https://medium.com/@chinmaymjog)
 - **LinkedIn**: [Chinmay Jog](https://www.linkedin.com/in/chinmaymjog/)
 - **Email**: [chinmaymjog@gmail.com](mailto:chinmaymjog@gmail.com)
+
+<!-- Add your GitHub Stats or Top Languages here if you like! -->
