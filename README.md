@@ -8,38 +8,42 @@ I am a **seasoned IT professional with over 20 years of experience**, specializi
 
 ### 🏛️ Solution Architecture
 
-I have organized my work into two primary **Integrated Solutions** and one supporting **Toolkit**:
+I have organized my work into two primary **Integrated Solutions** and a supporting **Toolkit**:
 
 #### 🏢 Solution A: Enterprise LAMP Hosting (VM-Based)
 *A complete legacy-to-cloud transition showcase.*
-- **[azure-lamp-hosting (IaC)](https://github.com/chinmaymjog/azure-lamp-hosting)**: The foundational multi-tier Azure infrastructure.
-- **[jenkins-ansible (Control Plane)](https://github.com/chinmaymjog/jenkins-ansible)**: The self-service dashboard for managing the platform.
+- **[shared-hosting-azure (IaC & Control Plane)](https://github.com/chinmaymjog/shared-hosting-azure)**: A consolidated project that provisions the multi-tier Azure infrastructure via Terraform and configures the web servers via Ansible Semaphore.
 
 #### ☸️ Solution B: Modern WP Ecosystem (K8s-Based)
 *A cloud-native scalability and standardization showcase.*
-- **[aks-tf (Infrastructure)](https://github.com/chinmaymjog/aks-tf)**: Enterprise AKS landing zone following hub-and-spoke networking.
-- **[wordpress-boilerplate (Ecosystem)](https://github.com/chinmaymjog/wp-boilerplate)**: Standardization for high-traffic CMS deployments.
+- **[aks-cluster-setup (Infrastructure & Ecosystem)](https://github.com/chinmaymjog/aks-cluster-setup)**: An enterprise AKS landing zone following hub-and-spoke networking that brings automated deployment flow for a high-traffic WordPress ecosystem.
 
 #### 🛠️ Supporting Layer: DevOps Toolkit
 *The "Glue" for both solutions.*
-- **[devops-toolkit](https://github.com/chinmaymjog/cicd-toolkit)**: Reusable CI/CD templates for both VM and K8s environments.
+- **[devops-toolkit](https://github.com/chinmaymjog/devops-toolkit)**: Reusable CI/CD templates, Ansible playbooks, and utility scripts for both VM and K8s environments.
+- **[gitscan](https://github.com/chinmaymjog/gitscan)**: Automated pre-commit secrets scanning framework to ensure code safety.
 
 ---
 
-### 📊 Other Projects
+### 🧪 Local Development & R&D
+- **[devops-lab](https://github.com/chinmaymjog/devops-lab)**: A comprehensive local development environment designed for GitLab CI/CD workflows using Docker and K3d.
+- **[ai-dev-orchestrator](https://github.com/chinmaymjog/ai-dev-orchestrator)**: (WIP) An automated software development agent leveraging Google Gemini to turn Jira tickets into production-ready Merge Requests.
+
+---
+
+### 🛡️ Security & Governance
 - **[AzRBAC-Insight](https://github.com/chinmaymjog/AzRBAC-Insight)**: Automated Azure Governance and RBAC auditing.
 - **[cis-ubuntu24-hardening](https://github.com/chinmaymjog/cis-ubuntu24-hardening)**: Security compliance automation.
 
 ---
 
-## 🚀 Zero-Touch Deployment Guide
+## 🚀 Deployment Guides
 
-This portfolio is designed to be deployed as a cohesive ecosystem. To get started:
+Each solution is designed to be deployed as a cohesive ecosystem. To get started, refer to the detailed deployment guides in each repository:
 
-1.  **Foundational IaC**: Start with **[azure-lamp-hosting](https://github.com/chinmaymjog/azure-lamp-hosting)**. Run `ssh-keygen -t rsa -f webadmin_rsa` in `terraform/`, then `terraform apply`.
-2.  **VM Control Plane**: Terraform generates `hosts` and `database_vars.yml`. Copy these (and your private key) to the **[jenkins-ansible/ansible](https://github.com/chinmaymjog/jenkins-ansible)** directory and run `docker compose up -d`.
-3.  **Cloud-Native Scale**: Deploy the **[aks-tf](https://github.com/chinmaymjog/aks-tf)** landing zone. It generates a `.wp-env` file.
-4.  **App Deployment**: Copy the `.wp-env` to the **[wp-boilerplate](https://github.com/chinmaymjog/wp-boilerplate)** directory and run the `deploy` scripts to launch your K8s-based WordPress ecosystem.
+1.  **Shared Hosting on Azure**: See the [shared-hosting-azure README](https://github.com/chinmaymjog/shared-hosting-azure) for provisioning the VM infrastructure and using Semaphore.
+2.  **AKS Cluster Setup**: Check the [aks-cluster-setup README](https://github.com/chinmaymjog/aks-cluster-setup) for the multi-stage deployment of the hub, AKS cluster, and WordPress ecosystem.
+3.  **DevOps Lab**: Launch the local K3d and Docker environment via the quick start in [devops-lab](https://github.com/chinmaymjog/devops-lab).
 
 ---
 
@@ -55,7 +59,7 @@ This portfolio is designed to be deployed as a cohesive ecosystem. To get starte
 
 ### 📫 Connect with me:
 - **Medium**: [Read my technical deep-dives](https://medium.com/@chinmaymjog)
-- **LinkedIn**: [Chinmay Jog](https://www.linkedin.com/in/chinmaymjog/)
+- **LinkedIn**: [Chinmay Jog](https://www.linkedin.com/in/28051984-chinmay-jog/)
 - **Email**: [chinmaymjog@gmail.com](mailto:chinmaymjog@gmail.com)
 
 <!-- Add your GitHub Stats or Top Languages here if you like! -->
