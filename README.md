@@ -1,3 +1,5 @@
+![Chinmay Jog Profile Header](header.png)
+
 # Hi, I'm Chinmay Jog! 👋
 
 ## 🏗️ Platform & Cloud Solutions Architect
