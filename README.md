@@ -1,4 +1,4 @@
-![Chinmay Jog Profile Header](header.png)
+![Chinmay Jog Profile Header](./docs/assets/header.png)
 
 # Hi, I'm Chinmay Jog! 👋
 
@@ -15,6 +15,7 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 | :--- | :--- | :--- |
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | 🚀 **Production Ready** |
 | [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
+| [**Azure VM Hosting**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Automated IaaS & Config Management | 🚀 **Production Ready** |
 | [**Content-Ops**](https://github.com/chinmaymjog/content-ops) | Automation & Publishing Engine | 🛠️ **v1.0 Released** |
 
 ---
