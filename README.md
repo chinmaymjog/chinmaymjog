@@ -14,7 +14,7 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 | Solution | Domain | Status |
 | :--- | :--- | :--- |
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | 🚀 **Production Ready** |
-| [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
+| [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) ([Article](https://github.com/chinmaymjog/azure-rbac-insight/blob/main/docs/posts/azure-rbac-insight-article.md)) | Security Analysis & Visualization | ✅ **Live** |
 | [**Content-Ops**](https://github.com/chinmaymjog/content-ops) | Automation & Publishing Engine | 🛠️ **v1.0 Released** |
 
 ---
