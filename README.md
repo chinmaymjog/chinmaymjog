@@ -1,5 +1,3 @@
-![Chinmay Jog Profile Header](./docs/assets/header.png)
-
 # Hi, I'm Chinmay Jog! 👋
 
 ## 🏗️ Platform & Cloud Solutions Architect
@@ -7,17 +5,21 @@
 
 I specialize in building **"Golden Paths"** for developers. My work focuses on Internal Developer Platforms (IDP), secure Cloud Foundations, and automated compliance. I don't just write scripts; I build end-to-end ecosystems that enable organizations to ship faster and more securely.
 
+<p align="center">
+	<img src="./docs/assets/header.png" alt="Chinmay Jog Profile Header" width="720" />
+</p>
+
 ---
 
 ### 🌟 Featured Solutions
 
 | Solution | Domain | Status |
 | :--- | :--- | :--- |
+| [**Engineering System**](https://github.com/chinmaymjog/engineering-system) | Reusable engineering standards and AI-assisted delivery model | ✅ **Live** |
+| [**Project Template**](https://github.com/chinmaymjog/project-template) | Starter template aligned to engineering-system workflow | ✅ **Live** |
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | ✅ **Live** |
 | [**K3S Argocd Sandbox**](https://github.com/chinmaymjog/k3s-argocd-sandbox) | Local R&D & Multi-Stack Orchestration on K3S cluster| ✅ **Live** |
 | [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
-| [**Azure VM Hosting**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Automated IaaS & Config Management | 🚀 **Getting Ready** |
-| [**Content-Ops**](https://github.com/chinmaymjog/content-ops) | Automation & Publishing Engine | 🚀 **Getting Ready** |
 
 
 ---
