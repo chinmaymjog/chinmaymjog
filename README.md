@@ -13,10 +13,12 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 
 | Solution | Domain | Status |
 | :--- | :--- | :--- |
-| [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | 🚀 **Production Ready** |
+| [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | ✅ **Live** |
+| [**K3S Argocd Sandbox**](https://github.com/chinmaymjog/k3s-argocd-sandbox) | Local R&D & Multi-Stack Orchestration on K3S cluster| ✅ **Live** |
 | [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
-| [**Azure VM Hosting**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Automated IaaS & Config Management | 🚀 **Production Ready** |
-| [**Content-Ops**](https://github.com/chinmaymjog/content-ops) | Automation & Publishing Engine | 🛠️ **v1.0 Released** |
+| [**Azure VM Hosting**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Automated IaaS & Config Management | 🚀 **Getting Ready** |
+| [**Content-Ops**](https://github.com/chinmaymjog/content-ops) | Automation & Publishing Engine | 🛠️ **Getting Ready** |
+
 
 ---
 
