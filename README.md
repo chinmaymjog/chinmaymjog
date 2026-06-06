@@ -5,7 +5,7 @@
 
 I specialize in building **"Golden Paths"** for developers. My work focuses on Internal Developer Platforms (IDP), secure Cloud Foundations, and automated compliance. I don't just write scripts; I build end-to-end ecosystems that enable organizations to ship faster and more securely.
 
-> Focus: Platform engineering, cloud foundations, and secure automation at scale.
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-005A9C?style=flat-square&logo=kubernetes&logoColor=white) ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![DevSecOps Automation](https://img.shields.io/badge/DevSecOps%20Automation-1F7A4A?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -18,7 +18,6 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | ✅ **Live** |
 | [**K3s ArgoCD Sandbox**](https://github.com/chinmaymjog/k3s-argocd-sandbox) | Local R&D & Multi-Stack Orchestration on K3s cluster | ✅ **Live** |
 | [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
-
 
 ---
 
