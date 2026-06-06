@@ -5,7 +5,7 @@
 
 I specialize in building **"Golden Paths"** for developers. My work focuses on Internal Developer Platforms (IDP), secure Cloud Foundations, and automated compliance. I don't just write scripts; I build end-to-end ecosystems that enable organizations to ship faster and more securely.
 
-![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-0A66C2?style=flat-square&logo=kubernetes&logoColor=white) ![Cloud Foundations](https://img.shields.io/badge/Cloud%20Foundations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Secure Automation](https://img.shields.io/badge/Secure%20Automation-2E7D32?style=flat-square&logo=githubactions&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-005A9C?style=flat-square&logo=kubernetes&logoColor=white) ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![DevSecOps Automation](https://img.shields.io/badge/DevSecOps%20Automation-1F7A4A?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
