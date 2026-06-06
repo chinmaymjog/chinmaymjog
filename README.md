@@ -5,9 +5,7 @@
 
 I specialize in building **"Golden Paths"** for developers. My work focuses on Internal Developer Platforms (IDP), secure Cloud Foundations, and automated compliance. I don't just write scripts; I build end-to-end ecosystems that enable organizations to ship faster and more securely.
 
-<p align="center">
-	<img src="./docs/assets/header.png" alt="Chinmay Jog Profile Header" width="720" />
-</p>
+> Focus: Platform engineering, cloud foundations, and secure automation at scale.
 
 ---
 
