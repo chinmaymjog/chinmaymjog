@@ -17,7 +17,9 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | ✅ **Live** |
 | [**K3s ArgoCD Sandbox**](https://github.com/chinmaymjog/k3s-argocd-sandbox) | Local R&D & Multi-Stack Orchestration on K3s cluster | ✅ **Live** |
 | [**Azure VM Hosting Sandbox**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Hardened, zero-trust multi-tenant hosting cluster on Azure | ✅ **Live** |
+| [**Azure WordPress on AKS**](https://github.com/chinmaymjog/azure-wordpress-aks) ([infra](https://github.com/chinmaymjog/azure-wordpress-aks-infra)) | Containerized WordPress on AKS - Helm chart, layered Docker images & OIDC CI/CD, on a Terraform Hub-Spoke platform | ✅ **Live** |
 | [**Azure RBAC Insight**](https://github.com/chinmaymjog/azure-rbac-insight) | Security Analysis & Visualization | ✅ **Live** |
+| [**Shield**](https://github.com/chinmaymjog/shield-go) ([Homebrew tap](https://github.com/chinmaymjog/homebrew-shield)) | Local git pre-commit secret scanning (gitleaks + trufflehog), installed once per machine | ✅ **Live** |
 
 ---
 
