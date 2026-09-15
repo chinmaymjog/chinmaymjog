@@ -13,8 +13,7 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 
 | Solution | Domain | Status |
 | :--- | :--- | :--- |
-| [**Engineering System**](https://github.com/chinmaymjog/engineering-system) | Reusable engineering standards and AI-assisted delivery model | ✅ **Live** |
-| [**Project Template**](https://github.com/chinmaymjog/project-template) | Starter template aligned to engineering-system workflow | ✅ **Live** |
+| [**Project Template**](https://github.com/chinmaymjog/project-template) | Starter template with reusable engineering standards and AI-assisted delivery workflow built in | ✅ **Live** |
 | [**CloudOps Sandbox**](https://github.com/chinmaymjog/cloudops-sandbox) | Local R&D & Multi-Stack Orchestration | ✅ **Live** |
 | [**K3s ArgoCD Sandbox**](https://github.com/chinmaymjog/k3s-argocd-sandbox) | Local R&D & Multi-Stack Orchestration on K3s cluster | ✅ **Live** |
 | [**Azure VM Hosting Sandbox**](https://github.com/chinmaymjog/azure-vm-hosting-solution) | Hardened, zero-trust multi-tenant hosting cluster on Azure | ✅ **Live** |
