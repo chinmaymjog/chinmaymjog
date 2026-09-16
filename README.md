@@ -7,6 +7,8 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 
 ![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-005A9C?style=flat-square&logo=kubernetes&logoColor=white) ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![DevSecOps Automation](https://img.shields.io/badge/DevSecOps%20Automation-1F7A4A?style=flat-square&logo=githubactions&logoColor=white)
 
+📖 **[Read my blog](https://chinmaymjog.github.io/)** - write-ups from the projects below: what I built, and the real bugs and tradeoffs along the way.
+
 ---
 
 ### 🌟 Featured Solutions
@@ -42,8 +44,9 @@ I specialize in building **"Golden Paths"** for developers. My work focuses on I
 ---
 
 ### 📫 Connect with me:
+- **Blog**: [chinmaymjog.github.io](https://chinmaymjog.github.io/)
 - **LinkedIn**: [Chinmay Jog](https://www.linkedin.com/in/28051984-chinmay-jog/)
-- **Medium**: [Technical Deep-Dives](https://medium.com/@chinmaymjog)
+- **Medium (archive)**: [@chinmaymjog](https://medium.com/@chinmaymjog)
 - **Email**: [chinmaymjog@gmail.com](mailto:chinmaymjog@gmail.com)
 
 ---
